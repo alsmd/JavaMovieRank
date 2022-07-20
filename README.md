@@ -5,11 +5,11 @@
  
  ### Silver
  
- <img src="images/silver.png">
+ <img src="postersRanked/silver/Shark Bait.png">
  
  ### Golden
- <img src="images/golden.png">
+ <img src="postersRanked/golden/Big Hero 6.png">
  
   ### Bronze
- <img src="images/bronze.png">
+ <img src="postersRanked/bronze/After Ever Happy.png">
  
